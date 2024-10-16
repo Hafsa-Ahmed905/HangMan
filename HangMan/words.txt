@@ -1,0 +1,10 @@
+apple
+banana
+cherry
+dog
+elephant
+football
+guitar
+house
+internet
+jacket

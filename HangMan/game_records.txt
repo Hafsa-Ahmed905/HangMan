@@ -1,0 +1,7 @@
+Name		Status		Score
+john		Won			5
+emma		Lost		0
+alex		Won			4
+alex		Won			3
+alex		Won		4
+emma		Lost		0
